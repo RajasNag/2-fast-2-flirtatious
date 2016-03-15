@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\jamie.txt">
+    <Files>
+      <File FileName="Assets\Scripts\DateTextReader.cs" Line="1" Column="1" />
+      <File FileName="Assets\ClickableWord.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test.txt" Line="1" Column="1" />
+      <File FileName="Assets\kit.txt" Line="9" Column="22" />
+      <File FileName="Assets\MenuSelection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Reposition.cs" Line="1" Column="1" />
+      <File FileName="Assets\SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Chad.txt" Line="1" Column="41" />
+      <File FileName="Assets\jamie.txt" Line="5" Column="562" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Game Development\SpeedDating\SpeedDating\Assets\Scripts\DateTextReader.cs" line="175" column="62" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
